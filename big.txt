@@ -108,7 +108,7 @@ USG 7/2021 Gallbladder polyps (up to 0.6cm).
 1/21 A1c 7.3  CBC N Cr 163 PCR 5.04          
 5/21 PCR 2.92 A1c 7.8 Cr 186 eGFR 30 
 8/21 A1c 8.7 Hb 13.2 NcNc Plt 142 Cr 183 Na 143
-10/2021: HB 12.8NcNc, Fe N, Cr 199
+10/2021: HB 12.8 NcNc, Fe N, Cr 199
 11/2021: FOB +ve x 1, ACR 196 
 1/22 Hb 11.5, PLT 151, Ferritin 288, HbA1c 7.8 FBS 3.9  Cr 181 eGFR 31  TC 3.4  HDL 1.8  LDL 1.1  TG 1.1 
 
@@ -515,7 +515,7 @@ No obvious bony lesion is detected.
 
 11/18 ECG: NSR rate 70bpm regular
 
-9/2019 : 3x AAFB sputum= neg
+9/2019 : 3x AFB sputum= neg
 16/9/2019 sputum Culture:
 Organism 1: Pseudomonas aeruginosa (scanty growth)
 
