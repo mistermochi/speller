@@ -7,7 +7,7 @@
 9/20 FG 5.9 Cr 170 urate 0.460 TC 3.3 TG 1.0 HDL 1.1 LDL 1.8
 4/21 A1c 5.7 K 5.5 Cr 252 (eGFR 21) Urate 0.746 FG 5.4 TG 1.2 LDL 1.9   MSU -ve
 5/2021  Hb 13.2 NcNc  ESR 7   Cr 144  LFT N
-5/2021 Private USG kidney: Rt kidney is small in size with cortisol thinnning. Renal parachymal disease has to be conidered. A 1.2 cm milk of calcium cyst is seen in mid pole of R kidney. A few cyst measuring up to 1.3 cm are also seen in left kidney. A 0.8 cm calcific focus is projected over upper pole of left kidney, suspicious of renal stone. Correlation with CT urogram would be helpful.
+5/2021 Private USG kidney: Rt kidney is small in size with cortisol thinning. Renal parenchymal disease has to be considered. A 1.2 cm milk of calcium cyst is seen in mid pole of R kidney. A few cyst measuring up to 1.3 cm are also seen in left kidney. A 0.8 cm calcific focus is projected over upper pole of left kidney, suspicious of renal stone. Correlation with CT urogram would be helpful.
 1/22 : FBS 5.1  Cr 158 H  eGFR (CKD-EPI) 37  TC 3.7  HDL 1.2  LDL 2.0  TG 1.2, CBC N, iron profile not def, ferritin 807 , urate 0.565 
 5/22 Cr 165 Bili 31 ALP/ ALT N Urate 0.470 ↑ TC 2.8  HDL 1.0 L  LDL 1.4  TG 0.8  AFP N
 10/2022: Cr 192 H  eGFR 29  ALT 23 [U/L]  ALP 149 H [U/L], HBV DNA 86
@@ -25,18 +25,18 @@
 
 
 8/2021 LFT N, urate 0.42, HbA1c 7.4 FBS 7.5 Cr 116 eGFR 58  TC 3.5  HDL 1.1  LDL 1.5  TG 2.1 UACR 2.7 
-MRMA 12/2021: no DR, RS 36 months
+MRAM 12/2021: no DR, RS 36 months
 1/2022: A1C 8.5
 3/22 HbA1c 7.8 H  FBS 8.6 H  Cr 110 H K 6.1 (Referred AED, check 5.2) eGFR (CKD-EPI) 62 urate 0.339
 6/2022: HbA1c 7.1 H  FG 6.5 H  Cr 112 H  eGFR 60  TC 3.5  HDL 0.8 L  LDL 1.9  TG 1.8 H  UACR 1.5  urate 0.48
 9/2022: HbA1c 7.0 H  FG 6.8 urate 0.45
-1/23 A1c 7.2↑ FG 8.4 uraet 0.453
+1/23 A1c 7.2↑ FG 8.4 urate 0.453
 
 
 
 USG 9/2015 → Static small gallbladder polyps.
 8/18 USG: Gallbladder polyps up to 0.48 cm.
-4/19 CBC N McHc static, Cr 116 LFT N, CaPO N, AFP N
+4/19 CBC N McHc static, Cr 116 LFT N, CaPO4 N, AFP N
 10/19 AFP LFT n 
 4/2020 LFT N AFP 4 
 10/20 LFT N AFP 3
@@ -49,7 +49,7 @@ USG 7/2021 Gallbladder polyps (up to 0.6cm).
 
 
 
-5/18 24h urine protein 0.09, A1c 7.5, Hb 13.1 McHc RFT n, ALT 43, CaPO N, LDL 0.9, FG 8.3
+5/18 24h urine protein 0.09, A1c 7.5, Hb 13.1 McHc RFT n, ALT 43, CaPO4 N, LDL 0.9, FG 8.3
 9/18 HBsAg -ve anti HCV -ve A1c 7.3 CBC N FG 7.4 LFT N Fe Profile N 
 1/19 FG 6.8 A1c 7.2 
 5/19 - A1c 8.0 FG 8.8 L/RFT n Lipid N; UACR neg
@@ -69,7 +69,7 @@ USG 7/2021 Gallbladder polyps (up to 0.6cm).
 
 1/2022: RFT N, K 4.0,  A1C 5.7, lipid 4.6/1.2/2.0/2.1
 5/22 TC 5.6 HDL 1.8 LDL 3.1 TG 1.4 ALP 150↑ ALT N
-10/22  CBP N  ALP 105   ALT 14  GGT 15  AFP 5   Ca/PO N   Lipid 4.5/0.8/1.7/2.4
+10/22  CBP N  ALP 105   ALT 14  GGT 15  AFP 5   Ca/PO4 N   Lipid 4.5/0.8/1.7/2.4
 
 1/2023: FG 6.6 H  Cr 69  eGFR 75  TC 6.5 H  HDL 2.0  LDL 3.9 H  TG 1.2  LFT n ALP 152 ↑
 
@@ -128,7 +128,7 @@ USG 7/2021 Gallbladder polyps (up to 0.6cm).
 
 Ix:
 3/20 ACR 32  a1c 8.3 Cr 130 lipid 3.4/2.7/0.9/1.4 FG 10.3
-6/20 A1c 7.9 K 5.5 RC K4.7 Cr138 eGFR 41  TSH n 
+6/20 A1c 7.9 K 5.5 RC K 4.7 Cr 138 eGFR 41  TSH n 
 10/20 A1c 7.5  FG 9.3  K 4.8  Cr 129  eGFR 44   Urate 0.327
 5/21 A1c 8.9 FG 8.9 Cr 121 eGFR 44 K 5.2 urate 0.358 TC 3.1 TG 2.1 HDL 0.7 LDL 1.4 TSH N  ACR 13
 9/2021:  HbA1c 8.4 H  FBS 9.8 H  Cr 117 H  eGFR (CKD-EPI) 49
@@ -147,7 +147,7 @@ Ix:
 10/18 X ray LS spine: Loss of lumbar lordosis. Intervertebral disc spaces are grossly normal. Mild degenerative changes with marginal osteophytes.
 No destruction of vertebral endplates and pedicles. Bilateral sacroiliac joints unremarkable.
 
-privtae bld result 6/11/21   TC 5.8  TG 1.05  HDL 1.41 LDL 3.9  Cr 59  ALT 22
+private bld result 6/11/21   TC 5.8  TG 1.05  HDL 1.41 LDL 3.9  Cr 59  ALT 22
 
 private bld result 6/11/21 
 TC 5.8  TG 1.05  HDL 1.41 LDL 3.9  (10 year CVD risk: 9.1%, with SBP 144)
@@ -246,7 +246,7 @@ no significant abnormality detected
 9/21 A1c 6.9 FG 7.7 ALT 45 AFP <3
 12/21 ACR 3.9↑ LRFT N eGFR >90 HBV DNA 39.9 AFP <3 FG 9.5 A1c 7.4↑ TC 5.1 TG 2.8 HDL 1.9 LDL 1.9 
 5/22 ACR 1.7 A1c 7.4 FG 9.3 ALT 46 AFP < 3
-10/22  ACR 2.5  A1c 8.1   FGV 9.7  HBV DNA 68.5   ALT 67   AFP <3   Lipid 5.3/2.5/2.0/2.2
+10/22  ACR 2.5  A1c 8.1   FG 9.7  HBV DNA 68.5   ALT 67   AFP <3   Lipid 5.3/2.5/2.0/2.2
 
 
 
@@ -265,7 +265,7 @@ no significant abnormality detected
 
 
 11/20 XR elbow wet film: no gross lesion seen. no reporting a/v
-1/21 A1c 5.7 CBC N Cr91 LFT N CaPO N FG 5.1TG 0.6 TC 5 HDL 2.7 LDL 2.1
+1/21 A1c 5.7 CBC N Cr 91 LFT N CaPO4 N FG 5.1 TG 0.6 TC 5 HDL 2.7 LDL 2.1
 
 7/21 Cr 75
 11/21: FBS 5.1  Cr 83 H  eGFR (CKD-EPI) 61  TC 5.4 H  HDL 2.6  LDL 2.6  TG 0.7, LFT N
@@ -282,8 +282,8 @@ no significant abnormality detected
 3/2019 : A1c 6.7  AFP 2.1  LFT N  Lipid 3.8/1.3/1.2/2.0
 8/2019 ACR 1.0 AFP 1.7 FG 4.7 LFT N Cr 91 Na 146
 1/2020: ACR 1, A1c 6.6, FG 4.8, AFP n, LFT n, Cr 86, eGFR 57, TG 1.1, TC 3.7, HDL 1.2, LDL 1.9
-12/2020 ACR 2.1 ESR 64 A1c 7.4 CBC Hb 10.7 WCC 9.6 TSH N AFP < 3 FG 8.0 Cr 88 LFT N urate 0.517 TC 4.7 TG 1.2 HDL1.5 LDL 2.7
-4/21 a1c 8.1 FG 7.6 Cr 85 eGFR57 LFT n AFP n TG 1.5 TC 4.0 HDL 1.3   LDL Calc 2.0 
+12/2020 ACR 2.1 ESR 64 A1c 7.4 CBC Hb 10.7 WCC 9.6 TSH N AFP < 3 FG 8.0 Cr 88 LFT N urate 0.517 TC 4.7 TG 1.2 HDL 1.5 LDL 2.7
+4/21 a1c 8.1 FG 7.6 Cr 85 eGFR 57 LFT n AFP n TG 1.5 TC 4.0 HDL 1.3   LDL Calc 2.0 
 9/21 A1c 7.9 FG 7.4 AFP <3 LFT N Cr 91 eGFR 52 TC 4.1 TG 1.6 HDL 1.3 LDL 2.1
 1/22 HbA1c 8.0 H  FBS 7.9 H  TC 4.3  HDL 1.5  LDL 2.2  TG 1.3 LFT N AFP N 
 5/22 ACR 4.6 A1c 8.0 AFP < 3 FG 8.2 Urate 0.519 ↑ Cr 98 LFT N lipid 4.0/1.8/1.3/1.9 
@@ -324,7 +324,7 @@ MRAM done Mar 2019
 7/19 RFT N  FG 5.5  Lipid 6.1/1.1/1.7/3.9
 7/11/19  Lipid 6.6/1.3/1.7/4.3
 3/2020: TG 1.2, TC 4.6, HDL 1.9, LDL 2.3
-8/20 A1c 5.3 FG 5.3 RFT N TG  1.0  TC5.9   HDL 2.2  LDL  3.2 
+8/20 A1c 5.3 FG 5.3 RFT N TG  1.0  TC 5.9   HDL 2.2  LDL  3.2 
 1/2021 ALT 56 TG 1.1 LDL 2.9 
 4/2021: LFT N, ALT 30, AFP 7↑ , anti-HCV and HBsAg -ve
 6/21 AFP 6
@@ -359,9 +359,9 @@ OGTT 4.9/8.9, urate 0.275
 5/20: LRFT N  OGTT - 5.4 / 5.2 A1c 5.8 TC 5.9  TG 1.2  HDL 1.8  LDL 3.6 
 4/21 Cr 42 ↓ eGFR > 90, FG 5.0, TC 6.0 TG 0.8 HDL 2.4 LDL 3.2 (10 year CVD risk: 8.0%)
 8/21 - CBC N, ESR 7, RFT N, LFT N, CaPO4 N, T4 16.0, TSH 0.74
-3/22 RFT N FGN LDL 3.1 
+3/22 RFT N FG N LDL 3.1 
 10/12 ECG: NSR 100 bpm urine protein -ve no PVD 
-3/14 RAMP HT IA: CVD risk low, urine prot -ve, no PVD ECG: SR 65, no ischaemic change
+3/14 RAMP HT IA: CVD risk low, urine protein -ve, no PVD ECG: SR 65, no ischaemic change
 5/18 ECG: NSR 68 
 7/19 RHT IA urine albumin -ve no PVD ECG SR HR 67 no ST changes / TWI
 
@@ -372,7 +372,7 @@ OGTT 4.9/8.9, urate 0.275
 2/2020 ACR 0.8 A1c 7.0 RFT N FG 8.3 TC 4.7 TG 2.4 HDL 1.5 LDL 2.1
 6/2020: R/LFT N, A1C 7.3, FBS 8.5, lipid 3.6/2.4/1.5/1.0
 11/20 A1c 8.0 FG 8.7
-4/2021: RFT N, A1C 7.9, FBS 8.1, liplid 4.1/2.2/1.7/1.5, ACR 1.2
+4/2021: RFT N, A1C 7.9, FBS 8.1, lipid 4.1/2.2/1.7/1.5, ACR 1.2
 12/21 ACR -ve A1c 7.4 FG 9.0 CBC N RFT N FE N Ferritin 366 lipid 4.5/2.7/1.6/1.7 
 8/2022: HbA1c 7.3 H  FG 8.6 H  Cr 57  eGFR 90  TC 4.5  HDL 1.7  LDL 1.7  TG 2.3 H  UACR 3.0  Hb 12.5
 10/2022: Cr 59  eGFR 89  TC 4.0  HDL 1.7  LDL 1.3  TG 2.2 H  UACR 1.0  Hb 12.3  ALT 21 [U/L]  ALP 99 [U/L]
@@ -413,9 +413,9 @@ OGTT 4.9/8.9, urate 0.275
 12/2011 CT abd + contrast:
 * a 1.9*1.7*1.4 cm oval hypoechoic lesion is seen in subcapsular area of R hepatic lobe, in favour of a regenerating or dysplastic nodule than a hepatoma, correlate with serum AFP & FU CT/ MRI
 * 2 hypodense hepatic nodules in seg 2 & 6, in favour of hepatic hemangiomas
-* 3 oval hypoenhansing nodules in seg 8, likely hemangiomas
+* 3 oval hypoenhancing nodules in seg 8, likely hemangiomas
 
-5/2012 private MRI confirmed hemangiomata, severeal liver masses, their signal intensity and enhancement pattern is compatible with hemangioma. Probably the one at segment VII of liver corresponds to the suspicious mass
+5/2012 private MRI confirmed hemangiomata, several liver masses, their signal intensity and enhancement pattern is compatible with hemangioma. Probably the one at segment VII of liver corresponds to the suspicious mass
 
 5/12/20 CT abd with contrast :
 *multiple liver lesions seen on portal venous phase, likely hemangioma. Interval FU imaging suggested for monitoring
@@ -423,9 +423,9 @@ OGTT 4.9/8.9, urate 0.275
 * A lingular segment lung opacity is partially included in this study, probably an area of focal atelectasis. Interval FU CT thorax as clinically indicated.
 
 12/21  CT abdomen with contrast 
-1. multiple hypodense liver lisions seen on portovenous phase. They show no significant change when compared wiht previous study. Features are suggestive of hemangioma. Interval FU will be helpful for confirmation 
+1. multiple hypodense liver lesions seen on portovenous phase. They show no significant change when compared with previous study. Features are suggestive of hemangioma. Interval FU will be helpful for confirmation 
 2. previous noted subcapsular 4mm hypoenhancing area in segment VII of liver cannot be well identified 
-3. patchy atelectatic change in the lingular segment of left upper lobe is similar. incrased atelectatic cahnge in the right middle lobe is seen. They can be related to fibrotic change. FU will be helpful 
+3. patchy atelectatic change in the lingular segment of left upper lobe is similar. increased atelectatic change in the right middle lobe is seen. They can be related to fibrotic change. FU will be helpful 
 4. 2.7 mm lung nodule seen in the left lower lobe anteromedial basal region. no significant change seen. suggestive of post inflammatory granuloma 
 
 4/2019 LFT/AFP N 
@@ -489,7 +489,7 @@ Degenerative change noted in the lumbar spine.
 
 16-12-2014 OGTT 6.0/5.7 HbA1c 5.6 Chol 6.9/0.9/2.3/4.2
 LRFT N, except TB 23 AFP 0.7
-6/16:chol 6.7 TG 1.3 HDL 2.1 LDL 4 K 5.5 bilirubin 23 AFP 0.9FBS 5.6HbA1c 5.8
+6/16: chol 6.7 TG 1.3 HDL 2.1 LDL 4 K 5.5 bilirubin 23 AFP 0.9 FBS 5.6 HbA1c 5.8
 6/16 K 5.1 bilirubin 22
 8/21 FG 5.9 LRFT N TC  7.3 TG 1.5 HDL 1.8 LDL 4.8 (10 year CVD risk: 10.6%, with SBP 131) AFP <3
 
@@ -500,7 +500,7 @@ LRFT N, except TB 23 AFP 0.7
 7/17 fg 4.9 TC 7.15 TG 0.84 HDL 2.09 LDL 4.7
 (10 year CVD risk: 3.3%, with SBP 126)
 11/16 TC 6.3 TG 0.5 HDL 2.4 LDL 3.7
-1/16:TSH:normalFBS 4.6/LDL 2.4
+1/16:TSH:normal FBS 4.6/LDL 2.4
 
 11/16 Xray hip and LS spine:
 Mild degenerative change with marginal osteophytes.
@@ -577,7 +577,7 @@ chest clear
 9/19 A1c 6 TC 4.1 TG 0.8 HDL 1 LDL 2.7 ACR 1
 5/19: OGTT 6.2/11.3
 11/3/19 OGTT 5.8/12.9 A1c 5.7
-12/18: FG 6.4, LFTn, AFPn, RFTn, eGFR 83, TG 1, TC 4.6, HDL 1, LDL 3 (10 year CVD risk: 21.5%)
+12/18: FG 6.4, LFT n, AFP n, RFT n, eGFR 83, TG 1, TC 4.6, HDL 1, LDL 3 (10 year CVD risk: 21.5%)
 3/18 AFP / LFT N
 7/16 FG 5.0 LRFT N AFP 3.3 TC 4.3 TG 1.3 HDL 1 LDL 2.8 (CVD risk 19.6%)
 7/15 LRFT N AFP N FG 5.6 TC 4.5 TG 1.1 HDL 1.1 LDL 2.9
@@ -588,7 +588,7 @@ CVD risk in 10 year (%)  16.9
 5/11 RFT N FG 5.6  TC 4.3 TG 1.6 HDL 0.9 LDL 2.7  ECG :NSR  urine protein -ve
 11/2011 FOB x3 -ve Stool C/ST, ova and cysts -ve
 
-3/2013 ECG: SR, no LVH/ ischamic change
+3/2013 ECG: SR, no LVH/ ischaemic change
 3/2014 ECG NSR 79/min, no ischemic change, no LVH
 
 3/2014 PVD -ve no urine alb
