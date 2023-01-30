@@ -34,7 +34,7 @@ if (!exports) exports = {};
 // A function that trains the language model with the words in the supplied text.
 // Multiple invocation of this function can extend the training of the model.
 exports.train = speller.train = function (text) {
-	var word, m, r = /[a-z]+/g;
+	var word, m, r = /([A-Za-z]+[0-9]*)/g;
 	text = text.toLowerCase();
 	while ((m = r.exec(text))) {
 		word = m[0];
